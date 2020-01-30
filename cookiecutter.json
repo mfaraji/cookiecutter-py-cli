@@ -2,7 +2,6 @@
     "full_name": "Moe Faraji",
     "email": "faraji66@gmail.com",
     "github_username": "mfaraji",
-    "project_name": "My CLI",
     "repo_name": "pycli",
     "pypi_name": "{{ cookiecutter.repo_name }}",
     "script_name": "{{ cookiecutter.pypi_name }}",
