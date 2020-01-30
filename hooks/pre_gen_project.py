@@ -48,7 +48,7 @@ def check_python_version():
 
 
 def validate_python_module_name():
-    module_name = "{{ cookiecutter.app_name }}"
+    module_name = "{{ cookiecutter.pypi_name }}"
     if not re.match(MODULE_REGEX, module_name):
         log_module_name_warning(module_name, LOGGER)
         sys.exit(1)

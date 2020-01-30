@@ -1,6 +1,6 @@
 import pytest
 from click.testing import CliRunner
-from {{cookiecutter.package_name}} import cli
+from {{cookiecutter.pypi_name}} import cli
 
 
 @pytest.fixture
