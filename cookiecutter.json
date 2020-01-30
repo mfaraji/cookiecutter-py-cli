@@ -1,0 +1,14 @@
+{
+    "full_name": "Moe Faraji",
+    "email": "faraji66@gmail.com",
+    "github_username": "mfaraji",
+    "project_name": "My CLI",
+    "repo_name": "pycli",
+    "pypi_name": "pycli",
+    "script_name": "pycli",
+    "package_name": "pycli",
+    "project_short_description": "Cookiecutter tool",
+    "release_date": "2020-01-29",
+    "year": "2020",
+    "version": "0.0.1"
+}
